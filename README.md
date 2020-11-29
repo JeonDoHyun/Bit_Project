@@ -1,9 +1,9 @@
 # Bit_Project
 
 <h1>알약 정보 제공 웹 사이트 ( 스프링 프레임워크 )</h1>
+<h2> 목차 </h2><br>
 
 
-<h2> 목차</h2>
 ![1](https://user-images.githubusercontent.com/52389219/100546382-72624400-32a4-11eb-8c3a-7c817b47f522.JPG)
 <br>
 <br>
